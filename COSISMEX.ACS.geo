@@ -232,22 +232,22 @@ BGO_Z0_4_Crystal.Shape BRIK {BotBGOLength5} {BotBGOWidth5} {BGObottomThick}
 BGO_Z0_4_Crystal.Mother ShieldedTelescope
 BGO_Z0_4_Crystal.Position {-CryoBaseX+BotBGOLength5+2*BGOBotShieldSipmPlateThick+BotBGOtoHouseGapX} {CryoBaseY-BotBGOtoHouseGapY-2*BotBGOWidth1-9*CrystalWrapping-4*BGOcrystalGapz-2*BotBGOWidth2-2*BotBGOWidth3-2*BotBGOWidth4-BotBGOWidth5} {-ShieldedHeight-.71}
 
-Volume BGO_Z1_4_Crystal
-BGO_Z1_4_Crystal.Material bgo
-BGO_Z1_4_Crystal.Visibility 1
-BGO_Z1_4_Crystal.Color 6
-BGO_Z1_4_Crystal.Shape BRIK {BotBGOLength6} {BotBGOWidth6} {BGObottomThick}
-BGO_Z1_4_Crystal.Mother ShieldedTelescope
-BGO_Z1_4_Crystal.Position {CryoBaseX-BotBGOLength6-2*BGOBotShieldSipmPlateThick-BotBGOtoHouseGapX} {CryoBaseY-BotBGOWidth6-CrystalWrapping-BotBGOtoHouseGapY} {-ShieldedHeight-.71}
+Volume BGO_Z1_0_Crystal
+BGO_Z1_0_Crystal.Material bgo
+BGO_Z1_0_Crystal.Visibility 1
+BGO_Z1_0_Crystal.Color 6
+BGO_Z1_0_Crystal.Shape BRIK {BotBGOLength6} {BotBGOWidth6} {BGObottomThick}
+BGO_Z1_0_Crystal.Mother ShieldedTelescope
+BGO_Z1_0_Crystal.Position {CryoBaseX-BotBGOLength6-2*BGOBotShieldSipmPlateThick-BotBGOtoHouseGapX} {CryoBaseY-BotBGOWidth6-CrystalWrapping-BotBGOtoHouseGapY} {-ShieldedHeight-.71}
 
 
-Volume BGO_Z1_3_Crystal
-BGO_Z1_3_Crystal.Material bgo
-BGO_Z1_3_Crystal.Visibility 1
-BGO_Z1_3_Crystal.Color 6
-BGO_Z1_3_Crystal.Shape BRIK {BotBGOLength7} {BotBGOWidth7} {BGObottomThick}
-BGO_Z1_3_Crystal.Mother ShieldedTelescope
-BGO_Z1_3_Crystal.Position {CryoBaseX-BotBGOLength7-2*BGOBotShieldSipmPlateThick-BotBGOtoHouseGapX} {CryoBaseY-2*CrystalWrapping-2*BotBGOWidth6-BotBGOtoHouseGapY-BGOcrystalGapz-BotBGOWidth7} {-ShieldedHeight-.71}
+Volume BGO_Z1_1_Crystal
+BGO_Z1_1_Crystal.Material bgo
+BGO_Z1_1_Crystal.Visibility 1
+BGO_Z1_1_Crystal.Color 6
+BGO_Z1_1_Crystal.Shape BRIK {BotBGOLength7} {BotBGOWidth7} {BGObottomThick}
+BGO_Z1_1_Crystal.Mother ShieldedTelescope
+BGO_Z1_1_Crystal.Position {CryoBaseX-BotBGOLength7-2*BGOBotShieldSipmPlateThick-BotBGOtoHouseGapX} {CryoBaseY-2*CrystalWrapping-2*BotBGOWidth6-BotBGOtoHouseGapY-BGOcrystalGapz-BotBGOWidth7} {-ShieldedHeight-.71}
 
 Volume BGO_Z1_2_Crystal
 BGO_Z1_2_Crystal.Material bgo
@@ -257,21 +257,21 @@ BGO_Z1_2_Crystal.Shape BRIK {BotBGOLength8} {BotBGOWidth8} {BGObottomThick}
 BGO_Z1_2_Crystal.Mother ShieldedTelescope
 BGO_Z1_2_Crystal.Position {CryoBaseX-BotBGOLength8-2*BGOBotShieldSipmPlateThick-BotBGOtoHouseGapX} {CryoBaseY-BotBGOtoHouseGapY-2*BotBGOWidth6-5*CrystalWrapping-2*BGOcrystalGapz-2*BotBGOWidth7-BotBGOWidth8} {-ShieldedHeight-.71}
 
-Volume BGO_Z1_1_Crystal
-BGO_Z1_1_Crystal.Material bgo
-BGO_Z1_1_Crystal.Visibility 1
-BGO_Z1_1_Crystal.Color 6
-BGO_Z1_1_Crystal.Shape BRIK {BotBGOLength9} {BotBGOWidth9} {BGObottomThick}
-BGO_Z1_1_Crystal.Mother ShieldedTelescope
-BGO_Z1_1_Crystal.Position {CryoBaseX-BotBGOLength9-2*BGOBotShieldSipmPlateThick-BotBGOtoHouseGapX} {CryoBaseY-BotBGOtoHouseGapY-2*BotBGOWidth6-7*CrystalWrapping-3*BGOcrystalGapz-2*BotBGOWidth7-2*BotBGOWidth8-BotBGOWidth9} {-ShieldedHeight-.71}
+Volume BGO_Z1_3_Crystal
+BGO_Z1_3_Crystal.Material bgo
+BGO_Z1_3_Crystal.Visibility 1
+BGO_Z1_3_Crystal.Color 6
+BGO_Z1_3_Crystal.Shape BRIK {BotBGOLength9} {BotBGOWidth9} {BGObottomThick}
+BGO_Z1_3_Crystal.Mother ShieldedTelescope
+BGO_Z1_3_Crystal.Position {CryoBaseX-BotBGOLength9-2*BGOBotShieldSipmPlateThick-BotBGOtoHouseGapX} {CryoBaseY-BotBGOtoHouseGapY-2*BotBGOWidth6-7*CrystalWrapping-3*BGOcrystalGapz-2*BotBGOWidth7-2*BotBGOWidth8-BotBGOWidth9} {-ShieldedHeight-.71}
 
-Volume BGO_Z1_0_Crystal
-BGO_Z1_0_Crystal.Material bgo
-BGO_Z1_0_Crystal.Visibility 1
-BGO_Z1_0_Crystal.Color 6
-BGO_Z1_0_Crystal.Shape BRIK {BotBGOLength10} {BotBGOWidth10} {BGObottomThick}
-BGO_Z1_0_Crystal.Mother ShieldedTelescope
-BGO_Z1_0_Crystal.Position {CryoBaseX-BotBGOLength10-2*BGOBotShieldSipmPlateThick-BotBGOtoHouseGapX} {CryoBaseY-BotBGOtoHouseGapY-2*BotBGOWidth6-9*CrystalWrapping-4*BGOcrystalGapz-2*BotBGOWidth7-2*BotBGOWidth8-2*BotBGOWidth9-BotBGOWidth10} {-ShieldedHeight-.71}
+Volume BGO_Z1_4_Crystal
+BGO_Z1_4_Crystal.Material bgo
+BGO_Z1_4_Crystal.Visibility 1
+BGO_Z1_4_Crystal.Color 6
+BGO_Z1_4_Crystal.Shape BRIK {BotBGOLength10} {BotBGOWidth10} {BGObottomThick}
+BGO_Z1_4_Crystal.Mother ShieldedTelescope
+BGO_Z1_4_Crystal.Position {CryoBaseX-BotBGOLength10-2*BGOBotShieldSipmPlateThick-BotBGOtoHouseGapX} {CryoBaseY-BotBGOtoHouseGapY-2*BotBGOWidth6-9*CrystalWrapping-4*BGOcrystalGapz-2*BotBGOWidth7-2*BotBGOWidth8-2*BotBGOWidth9-BotBGOWidth10} {-ShieldedHeight-.71}
 
 #Adding Bottom SiPM Modules
 Shape BRIK SipmHousingBlock1
@@ -540,13 +540,13 @@ BGOsideX.Shape SidewallMinusHole3
 BGOsideX.Position {0.5*BGOinnerX+BGOWallFullThickness+BGOsideThick+CrystalWrapping} {0.0} {(-ShieldedHeight-0.71+BGOBotZ+CryoBaseZ)+(BGOsideHigh+CrystalWrapping + 2*BGOBotCloseoutPlate)+CryoBaseZ}
 BGOsideX.Mother ShieldedTelescope
 
-Volume BGO_X1_0_Crystal
-BGO_X1_0_Crystal.Material bgo
-BGO_X1_0_Crystal.Visibility 1
-BGO_X1_0_Crystal.Color 6
-BGO_X1_0_Crystal.Shape BRIK {BGOsideThick} {BGOYLength} {BGOsideHigh}
-BGO_X1_0_Crystal.Mother ShieldedTelescope
-BGO_X1_0_Crystal.Position {0.5*BGOinnerX+BGOWallFullThickness+BGOsideThick+CrystalWrapping} {-0.5*BGOouterY+2*BGOWallSideThicknessX+BGOYLength} {(-ShieldedHeight-.71+BGOBotZ+CryoBaseZ)+(BGOsideHigh+CrystalWrapping + 2*BGOBotCloseoutPlate)+CryoBaseZ}
+Volume BGO_X1_2_Crystal
+BGO_X1_2_Crystal.Material bgo
+BGO_X1_2_Crystal.Visibility 1
+BGO_X1_2_Crystal.Color 6
+BGO_X1_2_Crystal.Shape BRIK {BGOsideThick} {BGOYLength} {BGOsideHigh}
+BGO_X1_2_Crystal.Mother ShieldedTelescope
+BGO_X1_2_Crystal.Position {0.5*BGOinnerX+BGOWallFullThickness+BGOsideThick+CrystalWrapping} {-0.5*BGOouterY+2*BGOWallSideThicknessX+BGOYLength} {(-ShieldedHeight-.71+BGOBotZ+CryoBaseZ)+(BGOsideHigh+CrystalWrapping + 2*BGOBotCloseoutPlate)+CryoBaseZ}
 
 Volume BGO_X1_1_Crystal
 BGO_X1_1_Crystal.Material bgo
@@ -556,13 +556,13 @@ BGO_X1_1_Crystal.Shape BRIK {BGOsideThick} {BGOYLength} {BGOsideHigh}
 BGO_X1_1_Crystal.Mother ShieldedTelescope
 BGO_X1_1_Crystal.Position {0.5*BGOinnerX+BGOWallFullThickness+BGOsideThick+CrystalWrapping} {0.5*BGOouterY-2*BGOWallSideThicknessX-3*BGOYLength-2*CrystalWrapping-BGOcrystalGap} {(-ShieldedHeight-.71+BGOBotZ+CryoBaseZ)+(BGOsideHigh+CrystalWrapping + 2*BGOBotCloseoutPlate)+CryoBaseZ}
 
-Volume BGO_X1_2_Crystal
-BGO_X1_2_Crystal.Material bgo
-BGO_X1_2_Crystal.Visibility 1
-BGO_X1_2_Crystal.Color 6
-BGO_X1_2_Crystal.Shape BRIK {BGOsideThick} {BGOYLength} {BGOsideHigh}
-BGO_X1_2_Crystal.Mother ShieldedTelescope
-BGO_X1_2_Crystal.Position {0.5*BGOinnerX+BGOWallFullThickness+BGOsideThick+CrystalWrapping} {0.5*BGOouterY-2*BGOWallSideThicknessX-BGOYLength} {(-ShieldedHeight-.71+BGOBotZ+CryoBaseZ)+(BGOsideHigh+CrystalWrapping+ 2*BGOBotCloseoutPlate)+CryoBaseZ}
+Volume BGO_X1_0_Crystal
+BGO_X1_0_Crystal.Material bgo
+BGO_X1_0_Crystal.Visibility 1
+BGO_X1_0_Crystal.Color 6
+BGO_X1_0_Crystal.Shape BRIK {BGOsideThick} {BGOYLength} {BGOsideHigh}
+BGO_X1_0_Crystal.Mother ShieldedTelescope
+BGO_X1_0_Crystal.Position {0.5*BGOinnerX+BGOWallFullThickness+BGOsideThick+CrystalWrapping} {0.5*BGOouterY-2*BGOWallSideThicknessX-BGOYLength} {(-ShieldedHeight-.71+BGOBotZ+CryoBaseZ)+(BGOsideHigh+CrystalWrapping+ 2*BGOBotCloseoutPlate)+CryoBaseZ}
 
 
 Volume BGOsideX_neg
@@ -640,13 +640,13 @@ BGOsideY.Position {0.0} {BGOinnerY+BGOWallFullThickness+BGOsideThick+CrystalWrap
 
 
 
-Volume BGO_Y1_0_Crystal
-BGO_Y1_0_Crystal.Material bgo
-BGO_Y1_0_Crystal.Visibility 1
-BGO_Y1_0_Crystal.Color 6
-BGO_Y1_0_Crystal.Shape BRIK {BGOXLength} {BGOsideThick} {BGOsideHigh}
-BGO_Y1_0_Crystal.Mother ShieldedTelescope
-BGO_Y1_0_Crystal.Position {0.5*BGOinnerX-2*BGOWallSideThicknessY-BGOXLength-CrystalWrapping} {BGOinnerY+BGOWallFullThickness+BGOsideThick+CrystalWrapping} {(-ShieldedHeight-.71+BGOBotZ+CryoBaseZ)+(BGOsideHigh+CrystalWrapping + 2*BGOBotCloseoutPlate)+CryoBaseZ}
+Volume BGO_Y1_2_Crystal
+BGO_Y1_2_Crystal.Material bgo
+BGO_Y1_2_Crystal.Visibility 1
+BGO_Y1_2_Crystal.Color 6
+BGO_Y1_2_Crystal.Shape BRIK {BGOXLength} {BGOsideThick} {BGOsideHigh}
+BGO_Y1_2_Crystal.Mother ShieldedTelescope
+BGO_Y1_2_Crystal.Position {0.5*BGOinnerX-2*BGOWallSideThicknessY-BGOXLength-CrystalWrapping} {BGOinnerY+BGOWallFullThickness+BGOsideThick+CrystalWrapping} {(-ShieldedHeight-.71+BGOBotZ+CryoBaseZ)+(BGOsideHigh+CrystalWrapping + 2*BGOBotCloseoutPlate)+CryoBaseZ}
 
 Volume BGO_Y1_1_Crystal
 BGO_Y1_1_Crystal.Material bgo
@@ -656,13 +656,13 @@ BGO_Y1_1_Crystal.Shape BRIK {BGOXLength} {BGOsideThick} {BGOsideHigh}
 BGO_Y1_1_Crystal.Mother ShieldedTelescope
 BGO_Y1_1_Crystal.Position {0.5*BGOinnerX-2*BGOWallSideThicknessY-3*BGOXLength-3*CrystalWrapping-BGOcrystalGap} {BGOinnerY+BGOWallFullThickness+BGOsideThick+CrystalWrapping} {(-ShieldedHeight-.71+BGOBotZ+CryoBaseZ)+(BGOsideHigh+CrystalWrapping + 2*BGOBotCloseoutPlate)+CryoBaseZ}
 
-Volume BGO_Y1_2_Crystal
-BGO_Y1_2_Crystal.Material bgo
-BGO_Y1_2_Crystal.Visibility 1
-BGO_Y1_2_Crystal.Color 6
-BGO_Y1_2_Crystal.Shape BRIK {BGOXLength} {BGOsideThick} {BGOsideHigh}
-BGO_Y1_2_Crystal.Mother ShieldedTelescope
-BGO_Y1_2_Crystal.Position {-0.5*BGOinnerX+2*BGOWallSideThicknessY+BGOXLength+CrystalWrapping} {BGOinnerY+BGOWallFullThickness+BGOsideThick+CrystalWrapping} {(-ShieldedHeight-.71+BGOBotZ+CryoBaseZ)+(BGOsideHigh+CrystalWrapping + 2*BGOBotCloseoutPlate)+CryoBaseZ}
+Volume BGO_Y1_0_Crystal
+BGO_Y1_0_Crystal.Material bgo
+BGO_Y1_0_Crystal.Visibility 1
+BGO_Y1_0_Crystal.Color 6
+BGO_Y1_0_Crystal.Shape BRIK {BGOXLength} {BGOsideThick} {BGOsideHigh}
+BGO_Y1_0_Crystal.Mother ShieldedTelescope
+BGO_Y1_0_Crystal.Position {-0.5*BGOinnerX+2*BGOWallSideThicknessY+BGOXLength+CrystalWrapping} {BGOinnerY+BGOWallFullThickness+BGOsideThick+CrystalWrapping} {(-ShieldedHeight-.71+BGOBotZ+CryoBaseZ)+(BGOsideHigh+CrystalWrapping + 2*BGOBotCloseoutPlate)+CryoBaseZ}
 
 # Now doing the shields on the negative Y side
 Volume BGOsideYneg
