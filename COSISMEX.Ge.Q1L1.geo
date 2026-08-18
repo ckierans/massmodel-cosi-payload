@@ -2,7 +2,7 @@ Constant CrystalDiameter_Q1_L1 10.12
 Constant HandleSpan_Q1_L1 9.6
 Constant DetectorWidthX_Q1_L1 8.06
 Constant DetectorWidthY_Q1_L1 8.06
-Constant DetectorHeight_Q1_L1 1.62
+Constant DetectorHeight_Q1_L1 1.5616
 Constant HandleThickness_Q1_L1 0.72
 Constant HandleBridgeThickness_Q1_L1 0.33
 
@@ -725,15 +725,14 @@ In_PassGe_Q1_L1.Copy In_PassGe3_Q1_L1
 In_PassGe_Q1_L1.Copy In_PassGe4_Q1_L1
 
 
-#06/26 (CK): Overlap with Holder_Q1_L1. Will be solved with CAD-based model
 In_PassGe1_Q1_L1.Mother Detector_Q1_L1
 In_PassGe1_Q1_L1.Position {3.785 + Xshift} {0.0 + Yshift} {{-DetectorHeight_Q1_L1/2} + HandleThickness_Q1_L1 + 0.005 + Zshift}
-#In_PassGe2_Q1_L1.Mother Detector_Q1_L1
-#In_PassGe2_Q1_L1.Position {3.785+Xshift} {0.0+Yshift} {{-DetectorHeight_Q1_L1/2} + HandleThickness_Q1_L1 + 0.025 + Zshift}
+In_PassGe2_Q1_L1.Mother Detector_Q1_L1
+In_PassGe2_Q1_L1.Position {3.785+Xshift} {0.0+Yshift} {{-DetectorHeight_Q1_L1/2} + HandleThickness_Q1_L1 + 0.025 + Zshift}
 In_PassGe3_Q1_L1.Mother Detector_Q1_L1
 In_PassGe3_Q1_L1.Position {-5.096+Xshift} {0.0+Yshift} {{-DetectorHeight_Q1_L1/2} + HandleThickness_Q1_L1 + 0.005 + Zshift}
-#In_PassGe4_Q1_L1.Mother Detector_Q1_L1
-#In_PassGe4_Q1_L1.Position {-5.096+Xshift} {0.0+Yshift} {{-DetectorHeight_Q1_L1/2} + HandleThickness_Q1_L1 + 0.025 + Zshift}
+In_PassGe4_Q1_L1.Mother Detector_Q1_L1
+In_PassGe4_Q1_L1.Position {-5.096+Xshift} {0.0+Yshift} {{-DetectorHeight_Q1_L1/2} + HandleThickness_Q1_L1 + 0.025 + Zshift}
 
 
 
