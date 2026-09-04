@@ -2,7 +2,7 @@ Constant CrystalDiameter_Q3_L2 9.95
 Constant HandleSpan_Q3_L2 9.54
 Constant DetectorWidthX_Q3_L2 7.99
 Constant DetectorWidthY_Q3_L2 8.01
-Constant DetectorHeight_Q3_L2 1.52
+Constant DetectorHeight_Q3_L2 1.5283
 Constant HandleThickness_Q3_L2 0.56
 Constant HandleBridgeThickness_Q3_L2 0.26
 
